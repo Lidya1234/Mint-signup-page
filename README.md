@@ -1,7 +1,6 @@
 # Project Name:HTML FORMS( Mint sign up page clone)
 
->We created a clone of a Mint's Signup page(https://www.mint.com/), with input form for the creation of a new account.
-
+> We created a clone of a Mint's Signup page(https://www.mint.com/), with input form for the creation of a new account.
 
 ![screenshot](./app_screenshot.png)
 
@@ -11,7 +10,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https://rawcdn.githack.com/Lidya1234/HTML_FORMS/e7766389db3bd9c65882b551822a9463d20630cf/index.html)
+[Live Demo Link](https://rawcdn.githack.com/Lidya1234/Mint-signup-page/ee7fdf784b933339c3f25a050b79e987fdee4191/index.html)
 
 ## Authors
 
@@ -20,13 +19,10 @@
 - Github: [@khalilhamdii](https://github.com/khalilhamdii)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/khalilhamdi/)
 
-
-
 👤 **Author2**
 
 - Github: [@Lidya1234](https://github.com/Lidya1234)
 - Linkedin: [LinkedIn](https://www.linkedin.com/in/Lidya/)
-
 
 ## 🤝 Contributing
 
@@ -43,4 +39,5 @@ Push your branch up to your forked repository
 Open a Pull Request with a detailed description to the development branch of the original project for a review
 
 ## Show⭐
+
 Give a ⭐️ if you like
