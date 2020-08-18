@@ -1,4 +1,4 @@
-# Project Name:HTML FORMS( Mint sign up page clone)
+# HTML FORMS ( Mint sign up page clone )
 
 > We created a clone of a Mint's Signup page(https://www.mint.com/), with input form for the creation of a new account.
 
@@ -14,12 +14,12 @@
 
 ## Authors
 
-👤 **Author1**
+👤 **Khalil Hamdi**
 
 - Github: [@khalilhamdii](https://github.com/khalilhamdii)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/khalilhamdi/)
 
-👤 **Author2**
+👤 **Lidya Ghebreigziabher**
 
 - Github: [@Lidya1234](https://github.com/Lidya1234)
 - Linkedin: [LinkedIn](https://www.linkedin.com/in/Lidya/)
