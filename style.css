@@ -1,0 +1,190 @@
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  background-color: #eceef1;
+  color: #404040;
+  font-family: "AvenirNext", Avenir, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  min-width: 400px;
+}
+
+.center {
+  text-align: center;
+  margin: auto;
+}
+
+/* navigation bar */
+
+.navbar {
+  height: 40px;
+  float: none;
+  padding: 20px 0;
+}
+
+.nav-content {
+  float: right;
+}
+
+.nav-description {
+  float: left;
+  margin-top: 5px;
+}
+
+/* signin */
+
+.signin-btn {
+  float: right;
+  background: #0879c8;
+  color: white;
+  border: none;
+  margin: 2px 30px;
+  height: 36px;
+  width: 120px;
+  border-radius: 4px;
+}
+
+.signup-form {
+  width: 350px;
+  background-color: white;
+  margin: 1px auto 0 auto;
+  padding: 35px 20px 0 20px;
+  border: 1px solid #acacac;
+  border-bottom: none;
+}
+
+/* Title */
+
+.title {
+  font-size: 24px;
+}
+
+.title-description {
+  font-size: 14px;
+  margin-top: 20px;
+}
+
+/* Input fields */
+
+.input-field {
+  margin-top: 15px;
+  margin-bottom: 20px;
+  text-align: left;
+}
+
+.inputbox {
+  width: 100%;
+  border: #c1c5c8 1px solid;
+  border-radius: 3px;
+  height: 34px;
+  padding: 0 1.2rem;
+  box-sizing: border-box;
+}
+
+.form-label {
+  line-height: 25px;
+}
+
+.labels {
+  margin-bottom: 5px;
+}
+
+.small-text {
+  font-size: 12px;
+}
+
+#password-input {
+  position: relative;
+}
+
+#password-input img {
+  position: absolute;
+  height: 22px;
+  right: 3%;
+  top: 15%;
+}
+
+.create-button {
+  background-color: #0879c8;
+  width: 100%;
+  color: white;
+  font-weight: bold;
+  border: none;
+  height: 44px;
+  border-radius: 4px;
+  font-size: 16px;
+}
+
+/* terms */
+
+.policy-terms {
+  margin-top: 30px;
+  color: #757575;
+  padding: 20px;
+  line-height: 20px;
+  font-weight: 100;
+  font-style: italic;
+}
+
+/* links */
+
+.hyper-links {
+  text-decoration: none;
+  color: #0879c8;
+  font-size: 12px;
+}
+
+/* icons */
+
+.lockicon {
+  margin-right: 10px;
+  height: 12px;
+  width: 12px;
+}
+
+.main-logo {
+  height: auto;
+  width: 170px;
+  opacity: 0.8;
+  margin: auto;
+}
+
+.inline-icons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto 20px auto;
+  width: 320px;
+  margin-left: auto;
+}
+
+.icons {
+  height: 21px;
+  width: 21px;
+  margin-right: 5px;
+  margin-left: 10px;
+}
+
+/* captcha */
+
+.captcha-section {
+  height: 30px;
+  background-color: #eceef1;
+  width: 350px;
+  margin: 0 auto 20px auto;
+  padding: 20px 20px 0 20px;
+  border: 1px solid #acacac;
+  border-top: none;
+  color: #757575;
+  font-weight: 100;
+  font-size: 10px;
+}
+
+/* footer */
+
+.footer {
+  color: #757575;
+  margin-bottom: 20px;
+  line-height: 15px;
+}
